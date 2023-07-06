@@ -1,2 +1,2 @@
-# Welcome to...
-# SpxWebsite.github.io
+
+# Welcome SpxWebsite.github.io
